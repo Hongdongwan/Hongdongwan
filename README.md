@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Suyeon%20Github&textBg=false&fontColor=000&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Dongwan%20Github&textBg=false&fontColor=000&fontSize=50)
 
 # Hi 👋, I'm Dongwan
 ### 🛠️ When I code, I rely on
