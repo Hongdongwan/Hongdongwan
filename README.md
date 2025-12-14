@@ -8,6 +8,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dongwanhong/)<br>
 ✨ personal website: https://dongwan-hong.framer.website/
 
-### My GitHub contributions summary
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ellie3413&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
